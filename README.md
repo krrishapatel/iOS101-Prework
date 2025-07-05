@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide](https://i.imgur.com/LRI5ePr.mp4) .
 
 ## App Brainstorming (Step 4)
 
@@ -52,11 +50,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 **StudyBuddy - Collaborative Learning App**
 
-I would like to build a collaborative learning app that helps students study together virtually. The app would feature real-time study sessions where users can join virtual study rooms, share notes, ask questions, and take collaborative quizzes. Key features would include a whiteboard for group problem-solving, a timer for focused study sessions, and a progress tracking system that shows study streaks and achievements. The app would also have a matching system to connect students studying similar subjects and a resource sharing feature where users can upload and share study materials like flashcards, notes, and practice tests.
+I want to build a collaborative learning app that helps students study together virtually. The app would feature real-time study sessions where users can join virtual study rooms, share notes, ask questions, and take collaborative quizzes. Key features would include a whiteboard for group problem-solving, a timer for focused study sessions, and a progress tracking system that shows study streaks and achievements. The app would also have a matching system to connect students studying similar subjects and a resource sharing feature where users can upload and share study materials like flashcards, notes, and practice tests.
 
 ## Notes
 
-The main challenge encountered was initially getting the UI elements to display properly on the screen. The labels needed proper width constraints to accommodate longer text like "University of Pennsylvania" and "Soon-to-be iOS Developer". Additionally, the button needed to be widened to properly fit the "Change Color" text. Once the constraints were properly set up, the app functioned smoothly with the random color generation feature working as intended.
+The main challenge encountered was initially getting the UI elements to display properly on the screen. The labels needed proper width constraints to accommodate longer text like "University of Pennsylvania" and "Soon-to-be iOS Developer". Also, the button needed to be widened to properly fit the "Change Color" text. Once the constraints were properly set up, the app functioned smoothly with the random color generation feature working as intended.
 
 ## License
 
