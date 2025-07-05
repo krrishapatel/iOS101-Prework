@@ -1,12 +1,10 @@
-# iOS101-Prework
-
-# Prework - Color Changer App
+# iOS101-Prework - Color Changer App
 
 Submitted by: **Krrisha Patel**
 
 **Color Changer App** is an iOS app that displays personal information and allows users to change the background color to a random color by tapping a button.
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
